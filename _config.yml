@@ -1,9 +1,9 @@
-title: "NLSA COLLABORATIVE"
-author: "Paul De Decker"
+title: NLSA COLLABORATIVE
+author: Paul De Decker
   name: "pauldedecker"
-  email: "pauldd@mun.ca"
+  email: pauldd@mun.ca
 description: # this means to ignore newlines until "show_excerpts:"
-  "Advocacy Research for People Who Stutter and Stakeholders in Newfoundland and Labrador"
+  Advocacy Research for People Who Stutter and Stakeholders in Newfoundland and Labrador
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
